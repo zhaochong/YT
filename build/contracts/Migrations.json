@@ -1378,10 +1378,10 @@
     "1": {
       "events": {},
       "links": {},
-      "address": "0x451dba9c6a7bbcd9d688bd9b89db178c9b551171",
-      "transactionHash": "0x9fbaa9af924010d15146d128872783141a7594b814eb4f6a5b4022b888951023"
+      "address": "0x9695c63a83c4d22e6919cbda2584b98e2c73c30b",
+      "transactionHash": "0x234594af37b038666a37c7f506045cfc3941822db94462034e6593973b4b0371"
     }
   },
   "schemaVersion": "2.0.1",
-  "updatedAt": "2019-08-25T15:18:50.900Z"
+  "updatedAt": "2020-01-02T06:39:55.289Z"
 }
