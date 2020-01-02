@@ -12,7 +12,7 @@ module.exports = {
             port: 8545,
             network_id: "1", // Match any network id
             gas: 2000000,
-            gasPrice: 100000000000
+            gasPrice: 10000000000
         }
     }
 };
