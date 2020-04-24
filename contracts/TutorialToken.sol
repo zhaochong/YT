@@ -3,11 +3,11 @@ pragma solidity ^0.4.24;
 import 'zeppelin-solidity/contracts/token/ERC20/StandardToken.sol';
 
 contract TutorialToken is StandardToken {
-    string public name = "Capture The Flag";
-    string public symbol = 'CTF';
+    string public name = "Sri Lanka Bijou";
+    string public symbol = 'SLKB';
     uint8 public decimals = 18;
     uint256 public constant INITIAL_SUPPLY = 10000000000000000000000000000;
-    address myaddress = 0x71b0D4649E1Afc1742160079F27267237cc5d278;
+    address myaddress = 0x9d98eFC9B44331518B8186eaeFfe29c02303A6D7;
 
     constructor() public {
         totalSupply_ = INITIAL_SUPPLY;
